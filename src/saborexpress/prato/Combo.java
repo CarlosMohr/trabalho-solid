@@ -1,5 +1,3 @@
-package futuro.prato;
-
 import saborexpress.prato.Prato;
 
 // Combo: preço base com 15% de desconto
