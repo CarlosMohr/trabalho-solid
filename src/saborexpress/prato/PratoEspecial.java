@@ -1,5 +1,3 @@
-package futuro.prato;
-
 import saborexpress.prato.Prato;
 
 // Prato especial: preço base + custo do ingrediente premium
