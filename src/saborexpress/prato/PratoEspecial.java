@@ -1,6 +1,4 @@
-package futuro.prato;
-
-import saborexpress.prato.Prato;
+package saborexpress.prato;
 
 // Prato especial: preço base + custo do ingrediente premium
 public class PratoEspecial extends Prato {

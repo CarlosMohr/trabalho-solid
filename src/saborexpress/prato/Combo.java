@@ -1,6 +1,4 @@
-package futuro.prato;
-
-import saborexpress.prato.Prato;
+package saborexpress.prato;
 
 // Combo: preço base com 15% de desconto
 public class Combo extends Prato {
