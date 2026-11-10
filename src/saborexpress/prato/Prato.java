@@ -1,6 +1,6 @@
 package saborexpress.prato;
 
-// Base de todos os pratos: cada tipo calcula o próprio preço
+// Base de todos os outros pratos: cada tipo calcula o próprio preço
 public abstract class Prato {
     private String nome;
     private double precoBase;
